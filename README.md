@@ -17,7 +17,7 @@
 
 <br>
 
-- A passionate Self-taught Data Engineer
+- A passionate self-taught Data Engineer
 - Currently consulting at Gatwick Airport
 - LinkedIn Profile - [link](https://www.linkedin.com/in/temidayo-ibraheem-150670221)
 - Avid Football Fan
@@ -31,18 +31,18 @@
 
 <p align="center">
 
-- **Languages**:
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
+
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know***:
 <p align="left">
   
-<img height="50" src="images/Snowflake_Logo.png"> &nbsp; </code> <img height="50" src="images/airflow_log.png"></code> <img height="50" src="images/aws_s3.png"> &nbsp; </code> <img height="50" src="images/dbt_logo.png"> &nbsp; </code>  <img height="50" src="images/terraform_logo.png"> &nbsp; </code> <img height="50" src="images/Kubernetes-Logo.png"> &nbsp;</code> <img height="50" src="images/docker_logo.jpg"></code> &nbsp; </code> <img height="50" src="images/postgres_logo.png">
+<img height="50" src="https://github.com/temi109/formula1_elt/blob/main/images/Snowflake_Logo.png"> &nbsp; </code> <img height="50" src="https://github.com/temi109/formula1_elt/blob/main/images/airflow_log.png"></code> <img height="50" src="https://github.com/temi109/formula1_elt/blob/main/images/aws_s3.png"> &nbsp; </code> <img height="50" src="https://github.com/temi109/formula1_elt/blob/main/images/dbt_logo.png"> &nbsp; </code>  <img height="50" src="https://github.com/temi109/formula1_elt/blob/main/images/terraform_logo.png"> &nbsp; </code> <img height="50" src="https://github.com/temi109/formula1_elt/blob/main/images/Kubernetes-Logo.png"> &nbsp;</code> <img height="50" src="https://github.com/temi109/formula1_elt/blob/main/images/docker_logo.jpg"></code> &nbsp; </code> <img height="50" src="https://github.com/temi109/formula1_elt/blob/main/images/postgres_logo.png">
 
 
 <br>
 
 - **Extras**:
 
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
+    ![Command Line](https://img.shields.io/badge/Command--Line-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
     ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
 
 
@@ -57,33 +57,20 @@
 <ul>
 
 <li>
-<a href="https://linkedin.com/in/0xabdulkhalid" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<a href="https://www.linkedin.com/in/temidayo-ibraheem-150670221/)" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:  temidayo-150670221.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
+
 
 <br>
 
 <li>
-<a href="https://twitter.com/0xabdulkhalid" target="_blank">
-<img src="https://img.shields.io/badge/twitter:  0xabdulkhalid-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="mailto:0xabdulkhalid@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  0xabdulkhalid-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<a href="mailto:temidayo.ibraheem@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:  temidayo-ibraheem.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
 </ul>
 </div>
-
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-<br>
-<br>
 
