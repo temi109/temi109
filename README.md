@@ -18,7 +18,6 @@
 <br>
 
 - A passionate self-taught Data Engineer
-- Currently consulting at Gatwick Airport
 - LinkedIn Profile - [link](https://www.linkedin.com/in/temidayo-ibraheem-150670221)
 - Avid Football Fan
 
