@@ -9,6 +9,12 @@
 
 <br>
 
+## Main Projects
+
+1. https://github.com/temi109/Realtime-Logs-Processing-Kafka-MWAA
+2. https://github.com/temi109/Modern-Distributed-Data-Lakehouse-Using-Apache-Iceberg
+3. https://github.com/temi109/NYC-Taxi-Databricks-Project
+
 
 
 	
